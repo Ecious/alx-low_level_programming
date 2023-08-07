@@ -3,7 +3,7 @@
 
 /**
  * create_array - create array of size size and assign char c
- * @size; size of array
+ * @size: size of array
  * @c: char to assign
  * description; create array of size size and assign char c
  * Return: pointer to array, NULL if fail
